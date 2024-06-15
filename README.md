@@ -3,7 +3,7 @@
 Aqui, cada transação é uma oportunidade de promover a reutilização de livros e economizar recursos. 
 Junte-se a nós para fazer parte dessa missão de conscientização e eficiência."
 
-Projeto Integrador da faculdade Fatec Diadema que visa a ODS 12 da agenda 2030 da ONU.
+Projeto Integrador da faculdade Fatec Diadema que visa comprir os objetivos da ODS 12 da agenda 2030 da ONU.
 
 Motivação:
 Através da reutilização eficiente de livros usados esperamos diminuir o desperdício de recursos naturais no Brasil.
@@ -16,7 +16,7 @@ Word para construção da documentação;
 
 Importante:
 Nem todas as telas são funcionais;
-Site feito por uma equipe inicialmente em construção de páginas web;
+Site feito por uma equipe iniciante em construção de páginas web;
 
 Equipe:
 Pedro Amaral Machado;
@@ -26,6 +26,6 @@ Vinicius Soares de Almeida;
 Wellington Barbosa da Silva;
 
 Auxiliadores:
-Bruno Zolotareff dos Santos;
-Patricia Gallo de França;
-Lúcio Nunes de Lira;
+Prof. Bruno Zolotareff dos Santos;
+Prof(a). Patricia Gallo de França;
+Prof. Lúcio Nunes de Lira;
